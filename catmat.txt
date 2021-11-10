@@ -1,0 +1,49 @@
+principio
+Amoxicilina
+"Amoxicilina + Clavulanato de Potássio"
+"Amoxicilina + Sulbactam"
+Ampicilina
+Acebrofilina
+Acetazolamida
+Betametasona
+Azitromicina
+Dexametasona
+Cefalexina
+Cefalotina
+Citalopram
+Claritromicina
+Norfloxacino
+"Paroxetina, Cloridrato"
+"Benzilpenicilina Benzatina"
+"Benzilpenicilina Potássica"
+"Benzoato de Benzila"
+"Tioridazina, Cloridrato"
+"Dobutamina, Cloridrato"
+Dimenidrinato
+"Dimenidrinato + Piridoxina"
+Dimeticona
+Mebendazol
+Albendazol
+Tiabendazol
+"Imipramina, Cloridrato"
+"Imipramina, Pamoato"
+Ibuprofeno
+Ivermectina
+"Metoclopramida, Cloridrato"
+"Tetraciclina, Cloridrato"
+"Tetraciclina, Cloridrato + Anfotericina B"
+Fenobarbital
+"Fenitoína Sódica"
+Glibenclamida
+Dutasterida
+"Dutasterida + Tansulosina"
+Estriol
+"Levotiroxina Sódica"
+Aciclovir
+Budesonida
+"Clopidogrel, Bissulfato"
+Clonazepam
+Clordiazepóxido
+Olanzapina
+"Propranolol, Cloridrato"
+"Amiodarona, Cloridrato"
